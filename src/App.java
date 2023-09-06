@@ -13,13 +13,14 @@ public class App {
 
         System.out.println("Uppgift B");
 
-       
         int tal3=234232;
         int tal4=3424;
         produkt=tal3*tal4;
         System.out.println(tal3+"*"+tal4+"="+produkt);
         produkt=(tal2)*(tal3)*(tal4);
-        System.out.println(tal2+"*"+tal3+"*"+tal4+"="+produkt);
+        System.out.println(tal2+"*"+tal3+"*"+tal4+"="+produkt+"ej korrekt");
+
+        System.out.println("Uppgift C");
 
 
 
