@@ -22,6 +22,12 @@ public class App {
 
         System.out.println("Uppgift C");
 
+        double tal5 = 10;
+        double tal6 = 3;
+        double kvot;
+        kvot=tal6/tal5;
+        System.out.println(tal6+"/"+tal5+"="+kvot);
+
 
 
     }
