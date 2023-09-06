@@ -5,5 +5,10 @@ public class App {
         int summa;
         int produkt;
         summa=tal1+tal2;
+        System.out.println(tal1+"+"+tal2+"="+summa);
+        
+        summa=tal1-tal2;
+        System.out.println(tal1+"-"+tal2+"="+summa);
+
     }
 }
